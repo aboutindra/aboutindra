@@ -61,6 +61,8 @@
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/konghq/konghq-ar21.svg" alt="Kong" height="50" />
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" height="50" />
 </div></td></tr></table>  
 
 <br/>  
