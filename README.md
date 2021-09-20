@@ -6,7 +6,7 @@
 ### <div align="center">I'm Indra, a full-time full-stack developer but mostly working on Backend and DevOps 😎🙃</div>  
   
 
-- 🔭 I’m currently working on [Sqola](https://www.kotakjualan.com)  
+- 🔭 I’m currently working on [Fokusngoding](https://www.fokusngoding.com)  
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
